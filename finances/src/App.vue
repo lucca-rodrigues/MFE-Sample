@@ -1,12 +1,10 @@
 <template>
   <!-- <cards></cards> -->
-  <!-- <div>
+  <div>
     <h1>Teste appp</h1>
-  </div> -->
-
-  <cards></cards>
+  </div>
 </template>
 
 <script setup>
-import Cards from "./components/Cards.vue";
+// import Cards from "./components/Cards.vue";
 </script>

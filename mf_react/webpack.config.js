@@ -46,6 +46,7 @@ module.exports = (_, argv) => ({
       remotes: {},
       exposes: {
         "./App": "./src/App",
+        "./Test": "./src/components/Test.jsx",
       },
       shared: {
         ...deps,

@@ -5,3 +5,8 @@
     <h3>Finances list Here....</h3>
   </div>
 </template>
+<script>
+export default {
+  name: "Cards",
+};
+</script>

@@ -1,15 +1,17 @@
 import React from "react";
 
-// import Cards from "finances/Cards";
-import App from "mf_react/App";
+// import { Cards } from "finances/Cards";
+import Cards from "finances/Cards";
+import Test from "mf_react/Test";
 
 function Home() {
   return (
     <>
       <h1>Home</h1>
-      {/* <Cards /> */}
+      <Test />
+      <Cards />
 
-      <App />
+      {/* <App /> */}
     </>
   );
 }
